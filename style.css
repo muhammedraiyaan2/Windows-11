@@ -14,6 +14,7 @@
     justify-content: center;
 }
 .win-icon{
+        margin-left:-100px;
 margin-top: 3px;
     height: 40px;
     width: 40px;
@@ -25,16 +26,19 @@ margin-top: 3px;
     height: 45px;
 }
 .find{
+        margin-left:-100px;
     height: 40px;
     width: 40px;
     margin-top: 3px;
 }
 .dual-screen{
+        margin-left:-100px;
     height: 40px;
     width: 40px;
     margin-top: 3px;
 }
 .min-max{
+        margin-left:-100px;
     height: 40px;
     width: 40px;
     margin-top: 3px;
@@ -45,11 +49,13 @@ margin-top: 3px;
     margin-top: 3px;
 }
 .edge{
+        margin-left:-100px;
     height: 40px;
     width: 40px;
     margin-top: 3px;
 }
 .store{
+        margin-left:-100px;
     height: 40px;
     width: 40px;
     margin-top: 3px;
