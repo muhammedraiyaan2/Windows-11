@@ -10,8 +10,7 @@
 .icons{
     display: inline-block;
     display: flex;
-    padding-right:500px;
-    padding-left:500px;
+    margin-left:500px;
     justify-content: center;
 }
 .win-icon{
