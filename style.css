@@ -67,9 +67,9 @@ margin-top: 3px;
 }
 .task-item{
     margin-top: -400px;
-    height: 400px;
-    width: 400px;
-    margin-left: -350px;
+    height: 600px;
+    width: 600px;
+    margin-left: -550px;
 visibility: hidden;
 }
 .file{
