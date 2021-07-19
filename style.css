@@ -1,6 +1,6 @@
 .background{
     background-image: url(https://sample-html.muhammadraiyaan.repl.co/images/backgrpund.jpg);
-    height: 805px;
+    height: 723px;
     background-size: 100% 100%;
 }
 *{
@@ -8,7 +8,8 @@
     padding: 0;
 }
 .icons{
-    margin-right:200px;
+
+    margin-left:155px;
     display: inline-block;
     display: flex;
     justify-content: center;
@@ -19,7 +20,7 @@ margin-top: 3px;
     width: 40px;
 }
 .container{
-    background: rgb(230, 230, 230);
+    background: rgb(226, 242, 248);
     width: 100%;
     height: 45px;
 }
@@ -66,13 +67,14 @@ margin-top: 3px;
     margin-top: 3px;
 }
 .task-item{
-    margin-top: -400px;
-    height: 400px;
-    width: 400px;
-    margin-left: -350px;
+    margin-top: -600px;
+    height:600px;
+    width: 600px;
+    margin-left: -500px;
 visibility: hidden;
 }
 .file{
+    visibility: hidden;
     padding-right: -100px;
     height: 500px;
     width: 500px;
